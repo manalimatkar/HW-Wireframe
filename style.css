@@ -1,0 +1,39 @@
+		h1{
+			background-color: #000000;
+			color: #ffffff;
+			font-size: 60px;
+			text-align: center;
+			padding: 0px;
+			margin: 0px;
+			vertical-align: top;
+		}
+		h2{
+			font-size: 35px;
+			text-decoration: underline;
+			color: #000000;
+			text-align: center;
+		}
+		h3
+		{
+			text-decoration: underline;
+			font-size: 25px;
+			text-align: center;
+		}
+		img{
+			display: block;
+			margin: auto;
+			padding: auto;
+		}
+		p{
+			font-size: 20px;
+			width: 70%;
+			height: auto;
+			display: block;
+			margin: auto;
+			padding: auto;
+			padding-top: 20px;
+		}
+		ul{
+			text-align: center;
+			list-style: inside;
+		}
